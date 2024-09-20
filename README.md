@@ -1,0 +1,1 @@
+Created a data visualization tool for a bioinformatics lab to help them analyze normalized digital image processing data. Utilized Python libraries like numpy, pandas, matplotlib, and seaborn in this project.
